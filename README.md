@@ -28,7 +28,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></code>
 <code><img width="8%" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3efeea57d16045c4b27a63c415314f83~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp?"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/shell/shell-icon.svg"></code>
+<code><img width="9%" src="https://www.vectorlogo.zone/logos/shell/shell-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
