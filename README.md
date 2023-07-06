@@ -38,4 +38,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
+<img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
+
+
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
