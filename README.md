@@ -1,4 +1,4 @@
-### Hi there 👋 
+![image](https://github.com/jenrain/jenrain/assets/73680472/1a137dbe-b98c-4673-b49a-0e3fa62b9be3)### Hi there 👋 
 ### This is Fernando Roldán!
 
 [![Github](https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg)](https://github.com/jenrain)
@@ -26,7 +26,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jenrain&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></code>
+<code><img width="10%" src="https://brandeps.com/logo-download/G/Gopher-logo-vector-01.svg"></code>
 <code><img width="10%" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3efeea57d16045c4b27a63c415314f83~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp?"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/shell/shell-icon.svg"></code>
 <br />
