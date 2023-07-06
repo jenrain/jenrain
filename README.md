@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Jiang+Rui+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-[![Github]()](https://github.com/jenrain)
+<hr>
 
 Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
 
