@@ -73,4 +73,8 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jenrain&" alt="jenrain" width="36%" height="auto"/>
 </p>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/jenrain/jenrain/assets/github-contribution-grid-snake.svg" /></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
