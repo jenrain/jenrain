@@ -73,5 +73,4 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jenrain&" alt="jenrain" width="36%" height="auto"/>
 </p>
 
-![亮色](https://raw.githubusercontent.com/jenrain/jenrain/output/github-contribution-grid-snake.svg)
 ![暗色](https://raw.githubusercontent.com/jenrain/jenrain/output/github-contribution-grid-snake-dark.svg)
