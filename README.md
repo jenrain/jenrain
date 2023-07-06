@@ -1,5 +1,4 @@
-### Hi there 👋 
-### This is Jen Rain!
+## I'm Jiang Rui 👋 
 
 [![Github]()](https://github.com/jenrain)
 
