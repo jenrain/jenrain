@@ -17,24 +17,55 @@
 - Finishing my Computer Engineering Undergraduate Degree.  
 
 ### Challenging MySelf
-- Waking up earlier to make good use of the day.
 - Coding at least 4 hours a day.
-- Exercising 3 days a week.
 - Travel once a week.
 
 ### Tech Stack
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jenrain&show_icons=true&hide_border=true" />
 
-<code><img width="9%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></code>
-<code><img width="7%" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3efeea57d16045c4b27a63c415314f83~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp?"></code>
-<code><img width="7%" src="https://www.vectorlogo.zone/logos/shell/shell-icon.svg"></code>
-<br />
-<code><img width="9%" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"></code>
-<code><img width="9%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="9%" src="https://github.com/cncf/artwork/blob/master/projects/etcd/horizontal/color/etcd-horizontal-color.svg"></code>
-<br />
-<code><img width="9%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
-<code><img width="9%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
-<code><img width="7%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+<br>
+<p align="left"> 
+    <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
+            height="40" /> 
+    </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> 
+    </a> 
+    <br>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="40" height="40" /> 
+    </a> 
+    <a href="https://redis.io" target="_blank" rel="noreferrer"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+            alt="redis" width="40" height="40" /> 
+    </a> 
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40"
+            height="40" /> 
+    </a> 
+   <br>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker" width="40" height="40" /> 
+    </a> 
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
+            height="40" /> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="40" height="40" /> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
+    </a> 
 </p>
