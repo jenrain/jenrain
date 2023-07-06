@@ -1,9 +1,9 @@
-![image](https://github.com/jenrain/jenrain/assets/73680472/1a137dbe-b98c-4673-b49a-0e3fa62b9be3)### Hi there 👋 
-### This is Fernando Roldán!
+### Hi there 👋 
+### This is Jen Rain!
 
 [![Github]()](https://github.com/jenrain)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![CSDN]()]([https://github.com/jaywcjlove/logo/blob/master/img/csdn.svg](https://blog.csdn.net/qq_49723651?spm=1000.2115.3001.5343))
+[![OutLook](https://cdn.worldvectorlogo.com/logos/outlook-1.svg)](mailto:jenrain95@outlook.com)
 
 Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
 
