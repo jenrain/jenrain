@@ -3,7 +3,7 @@
 
 ### About me
 
-<img align="right" alt="img" src="https://github.com/jenrain/PictureBed/blob/master/p1/WechatIMG83.jpg?raw=true" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/jenrain/PictureBed/blob/master/p1/WechatIMG83.jpg?raw=true" width="35%" height="auto" />
 
 
 - `Gopher` && `Backend RD`.
@@ -16,19 +16,14 @@
 - Completing challenging personal open source projects.
 - Finishing my Computer Engineering Undergraduate Degree.  
 
-### Challenging MySelf
-- Coding at least 4 hours a day.
-- Travel once a week.
 
 ### Tech Stack
-<p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jenrain&show_icons=true&hide_border=true" />
 
 <br>
 <p align="left"> 
     <a href="https://golang.org" target="_blank" rel="noreferrer"> 
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35"
             height="40" /> 
     </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -36,7 +31,6 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> 
     </a> 
-    <br>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> 
@@ -50,7 +44,6 @@
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40"
             height="40" /> 
     </a> 
-   <br>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -68,4 +61,14 @@
         <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
     </a> 
+</p>
+
+<br>
+
+<p style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenrain&show_icons=true&locale=en&layout=compact"
+        alt="jenrain" width="25%" height="auto" /> &nbsp;&nbsp;&nbsp;
+    <img  src="https://github-readme-stats.vercel.app/api?username=jenrain&show_icons=true&locale=en"
+        alt="jenrain" width="34%" height="auto"/>&nbsp;&nbsp;&nbsp;
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jenrain&" alt="jenrain" width="36%" height="auto"/>
 </p>
