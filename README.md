@@ -73,4 +73,4 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jenrain&" alt="jenrain" width="36%" height="auto"/>
 </p>
 
-![](https://raw.githubusercontent.com/jenrain/jenrain/main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/jenrain/jenrain/assets/github-contribution-grid-snake.svg" /></div>
