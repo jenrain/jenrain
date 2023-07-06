@@ -1,7 +1,7 @@
 ![image](https://github.com/jenrain/jenrain/assets/73680472/1a137dbe-b98c-4673-b49a-0e3fa62b9be3)### Hi there 👋 
 ### This is Fernando Roldán!
 
-[![Github](https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg)](https://github.com/jenrain)
+[![Github]()](https://github.com/jenrain)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
