@@ -66,7 +66,7 @@
 <br>
 
 <p style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenrain&show_icons=true&locale=en&layout=compact"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenrain&show_icons=false&locale=en&layout=compact"
         alt="jenrain" width="25%" height="auto" /> &nbsp;&nbsp;&nbsp;
     <img  src="https://github-readme-stats.vercel.app/api?username=jenrain&show_icons=true&locale=en"
         alt="jenrain" width="34%" height="auto"/>&nbsp;&nbsp;&nbsp;
