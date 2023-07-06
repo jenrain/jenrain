@@ -2,8 +2,6 @@
 ### This is Jen Rain!
 
 [![Github]()](https://github.com/jenrain)
-[![CSDN]()]([https://github.com/jaywcjlove/logo/blob/master/img/csdn.svg](https://blog.csdn.net/qq_49723651?spm=1000.2115.3001.5343))
-[![OutLook](https://cdn.worldvectorlogo.com/logos/outlook-1.svg)](mailto:jenrain95@outlook.com)
 
 Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
 
