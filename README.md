@@ -72,3 +72,5 @@
         alt="jenrain" width="34%" height="auto"/>&nbsp;&nbsp;&nbsp;
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jenrain&" alt="jenrain" width="36%" height="auto"/>
 </p>
+
+![](https://raw.githubusercontent.com/jenrain/jenrain/main/assets/github-contribution-grid-snake.svg)
